@@ -1,0 +1,3 @@
+# OAuth
+
+Delegated access technique
